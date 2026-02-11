@@ -858,7 +858,7 @@ body {
     color: #777;
 }
 
-/* ===== EXPERIENCE PAGE EXTRA STYLING ===== */
+
 
 .exp-hero {
     height: 80vh;
@@ -887,7 +887,7 @@ body {
     font-family: serif;
 }
 
-/* INFLIGHT SECTION */
+
 .inflight-section {
     padding: 80px 0;
     text-align: center;
@@ -912,7 +912,7 @@ body {
     transform: translateY(-10px);
 }
 
-/* PARALLAX BANNER */
+
 .parallax-banner {
     height: 500px;
     background: url('./travel_balloon (1).jpg') fixed center/cover;
@@ -926,7 +926,7 @@ body {
     text-align: center;
 }
 
-/* LOYALTY SECTION */
+
 .loyalty-section {
     padding: 80px 0;
     text-align: center;
@@ -971,7 +971,7 @@ body {
     background: linear-gradient(180deg, #949494f1, #474747); /* Platinum */
 }
 
-/* ===== WHERE WE FLY PAGE ===== */
+
 
 .where-hero {
     height: 300px;
@@ -1081,7 +1081,6 @@ body {
     transform: scale(1.05);
 }
 
-/* ===== BOOK PAGE ===== */
 
 .book-hero {
     height: 300px;
